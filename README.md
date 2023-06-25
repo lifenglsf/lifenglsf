@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=lifenglsf&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=lifenglsf&hide_title=true&count_private=true)
 
 <!--
 **lifenglsf/lifenglsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
